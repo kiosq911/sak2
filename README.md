@@ -10,6 +10,10 @@ OneDrive や NAS のように応答が遅い場所を開いても、画面が固
 
 > ⚠ **現在ベータ版です。** 大切なファイルを扱う操作は、まずコピーで試してください。
 
+| sak2 | Windows 標準のエクスプローラー |
+|---|---|
+| <img src="docs/sak2.png" width="420"> | <img src="docs/explorer.png" width="420"> |
+
 ---
 
 ## 何ができるか
